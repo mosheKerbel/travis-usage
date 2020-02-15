@@ -1,0 +1,23 @@
+{
+  "name": "travis-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosheKerbel/travis-usage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosheKerbel/travis-usage/issues"
+  },
+  "homepage": "https://github.com/mosheKerbel/travis-usage#readme",
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  }
+}
